@@ -1,1 +1,0 @@
-import{e as t,f as s,h as r,l as i}from"/build/_shared/chunk-N5D5EBPW.js";s();s();function l(){let{posts:a}=i();return t.createElement("main",null,t.createElement("h1",{className:"text-2xl font-bold"},"Posts"),t.createElement("ul",{className:"list-disc"},a.map(o=>t.createElement("li",{key:o.slug},t.createElement(r,{to:o.slug},o.title)))))}export{l as default};

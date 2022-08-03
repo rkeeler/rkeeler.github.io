@@ -1,0 +1,1 @@
+import{e as t,f as o}from"/build/_shared/chunk-LHUECDNL.js";o();o();function n(){return t.createElement("main",null,t.createElement("h1",{className:"text-2xl font-bold"},"Post B"),t.createElement("p",null,"test"))}export{n as default};
