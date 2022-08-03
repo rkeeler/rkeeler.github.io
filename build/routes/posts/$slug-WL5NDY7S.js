@@ -1,0 +1,1 @@
+import{e as o,f as r,l as t}from"/build/_shared/chunk-N5D5EBPW.js";r();r();function n(){let{slug:e}=t();return o.createElement("main",null,o.createElement("h1",{className:"text-2xl font-bold"},"Some Post"),o.createElement("p",null,e))}export{n as default};
